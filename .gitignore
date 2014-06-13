@@ -1,3 +1,4 @@
 client/frameworks
 client/runtime
 client/tools
+.DS_Store
